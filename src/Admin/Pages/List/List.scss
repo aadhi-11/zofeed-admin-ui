@@ -1,0 +1,12 @@
+.list{
+    display: flex;
+    width: 100%;
+    .listContainer{
+        padding-left: 199px;
+        flex:6;
+        .datatable{
+            padding-top: 60px;
+        }
+    }
+
+}

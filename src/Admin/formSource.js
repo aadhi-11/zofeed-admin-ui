@@ -1,0 +1,131 @@
+export const UserInputs=[
+    {
+        id:1,
+        label:"username",
+        type:"text",
+        placeholder:"midhun"
+    },
+    {
+        id:2,
+        label:"Name and surname",
+        type:"text",
+        placeholder:"santhosh"
+    },
+    {
+        id:3,
+        label:"Phone",
+        type:"number",
+        placeholder:"8912312312"
+    },
+    {
+        id:4,
+        label:"Address",
+        type:"text",
+        placeholder:"Elton st.216 New Delhi"
+    },
+    {
+        id:5,
+        label:"state",
+        type:"text",
+        placeholder:"Kerala"
+    }
+];
+
+export const DBInput=[
+    {
+        id:1,
+        label:"Name",
+        type:"text",
+        placeholder:"Kuzhimandhi"
+    },
+    {
+        id:2,
+        label:"Email",
+        type:"email",
+        placeholder:"db@gmail.com"
+    },
+    {
+        id:2,
+        label:"email",
+        type:"email",
+        placeholder:"nandanam@gmail.com"
+    },
+    {
+        id:3,
+        label:"Password",
+        type:"text",
+        placeholder:"Password"
+    },
+    {
+        id:4,
+        label:"proof",
+        type:"text",
+        placeholder:"190",
+
+    },
+    {
+        id:5,
+        label:"photos",
+        type:"file",
+    },
+    {
+        id:5,
+        label:"Lattitude",
+        type:"text",
+        placeholder:"0.0001"
+    },{
+        id:6,
+        label:"LOngitude",
+        type:"text",
+        placeholder:"0.0001"
+    },{
+        id:7,
+        label:"Phone",
+        type:"text",
+        placeholder:"+910000000000"
+    }
+]
+
+export const HotelInput=[
+    {
+        id:1,
+        label:"Hotel Name",
+        type:"text",
+        placeholder:"Hotel Nandanam"
+    },
+    {
+        id:2,
+        label:"email",
+        type:"email",
+        placeholder:"nandanam@gmail.com"
+    },
+    {
+        id:3,
+        label:"Password",
+        type:"text",
+        placeholder:"Password"
+    },
+    {
+        id:4,
+        label:"proof",
+        type:"text",
+        placeholder:"190",
+
+    },
+    {
+        id:5,
+        label:"photos",
+        type:"file",
+    },
+    {
+        id:5,
+        label:"Lattitude",
+        type:"text",
+        placeholder:"0.0001"
+    },{
+        id:6,
+        label:"LOngitude",
+        type:"text",
+        placeholder:"0.0001"
+    }
+]
